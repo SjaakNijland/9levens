@@ -1,0 +1,9 @@
+.links{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+.links p a{
+    color: #003366;
+    font-size: 19px;
+}

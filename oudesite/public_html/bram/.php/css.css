@@ -1,0 +1,315 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+#wrapper {
+	width:760px;
+	margin-top:-15px;
+	margin:auto;
+	background-color: #F5F5F5;
+	height: auto;
+	}
+
+
+
+#header { background-image:url(img/paar%20combo_004-03.jpg);
+	height:150px;
+	
+	}
+	
+#navigation {
+	
+	width: 760px; 
+	height:50px;
+	
+	}
+	
+#navigation a{
+	
+	display: block;
+	margin-bottom: 2px;
+	margin-top: 20px;
+	text-align:center;
+	width: 152px;
+	height: 50px; 
+	float:left;
+	 
+	}
+
+.coler {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #666;
+}
+
+
+.weekl {
+	text-align: left; 
+	
+}
+.size {
+	font-size: 24px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+.terug {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #32347E;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+	
+	 
+	
+
+                /*++++++++++++ navigatie knopen ++++++++++++*/
+				
+#knope2 { background-image:url(img/navegatie_2/navigatie%20knopen-02.jpg);
+height:50px;
+display:block;}
+#knope2:hover { background-image:url(img/navegatie_2/navigatie%20knopen%20met%20hover-02.jpg);
+	}	
+				
+#knope1 { background-image:url(img/navegatie_2/navigatie%20knopen-03.jpg);
+height:50px;
+display:block;}
+#knope1:hover { background-image:url(img/navegatie_2/navigatie%20knopen%20met%20hover-03.jpg); 
+	}
+	
+
+	
+#knope3 { background-image: url(img/navegatie_2/navigatie%20knopen-01.jpg);
+height:50px;
+display:block;}
+#knope3:hover { background-image:url(img/navegatie_2/navigatie%20knopen%20met%20hover-01.jpg);
+	}
+	
+#knope4 { background-image:url(img/navegatie_2/navigatie%20knopen-04.jpg);
+height:50px;
+display:block;}
+#knope4:hover { background-image:url(img/navegatie_2/navigatie%20knopen%20met%20hover-04.jpg);
+	}
+	
+#knope5 { background-image:url(img/navegatie_2/navigatie%20knopen-05.jpg);
+height:50px;
+display:block;}
+#knope5:hover { background-image:url(img/navegatie_2/navigatie%20knopen%20met%20hover-05.jpg);
+	}
+	
+
+	
+	
+
+#home{
+	height: 40px; 
+	background-image:url(img/tussen%20kopjes-01.jpg);
+	}	
+				
+
+#planning{
+	height: 
+	40px; background-image:url(img/tussen%20kopjes-02.jpg);
+	}	
+				
+#kittens{
+	height: 
+	40px; background-image:url(img/tussen%20kopjes-03.jpg);
+	}	
+								
+#galerij{
+	height: 40px; 
+	background-image:url(img/tussen%20kopjes-04.jpg);
+	}	
+								
+                
+				/*++++++++++++ home page ++++++++++++*/
+
+#knop2 { background-image:url(1.0/nesjes/wild%20west/partners%20normaal-01.jpg);
+height:125px;
+display:block;}
+#knop2:hover { background-image:url(1.0/nesjes/wild%20west/partners%20hover-01-01.jpg);
+	}
+
+#knop1 { background-image:url(img/gh/zonder%20hover-01.jpg);
+height:125px;
+display:block;
+margin-top: 1px;}
+#knop1:hover { background-image:url(img/gh/met%20hover.jpg);
+	}
+
+#knop3 { background-image: url(img/paar%20combo_004-01.jpg);
+height:125px;
+display:block;}
+#knop3:hover { background-image:url(img/hover-01.jpg);
+	}
+
+#knop4 { background-image: url(img/paar%20combo_004-01.jpg);
+height:125px;
+display:block;}
+#knop4:hover { background-image:url(img/hover-01.jpg);
+	}
+	
+#knop5 { background-image: url(img/paar%20combo_004-01.jpg);
+height:125px;
+display:block;}
+#knop5:hover { background-image:url(img/hover-01.jpg);
+	}
+	
+#knop6 { background-image: url(img/paar%20combo_004-01.jpg);
+height:125px;
+display:block;
+margin-bottom: 100px}
+#knop6:hover { background-image:url(img/hover-01.jpg);
+
+    }
+					   
+					   /*++++++++++++ planning ++++++++++++*/
+					   
+#planning1 { background-image: url(1.0/nesjes/Guitar%20hero%27s/plannen_normale.jpg);
+height:125px;
+display:block;
+margin-top: 1px;}
+#planning1:hover { background-image:url(1.0/nesjes/Guitar%20hero%27s/plannen_hover-01.jpg);
+	}
+	
+
+#planning2 { background-image:url(img/plannen.normal-01.jpg);
+height:125px;
+display:block;}
+#planning2:hover { background-image:url(img/plannen.hover-01.jpg);
+	}
+	
+	
+#planning3 { background-image:url(img/plannen.normal-02.jpg);
+height:125px;
+display:block;
+margin-top: 1px;}
+#planning3:hover { background-image:url(img/plannen.hover-02.jpg);
+	}
+	
+	                   /*++++++++++++ halloween ++++++++++++*/
+					   
+#halloween{
+	height: 40px; background-image:url(img/halloween%20kopje-01.jpg);
+	}	
+					 
+#halloween { background-image: url(1.0/nesjes/halloween/kittens.normal-01.jpg);
+height:125px;
+display:block;
+margin-top: 1px;}
+#halloween:hover { background-image:url(1.0/nesjes/halloween/kittens.hover-01.jpg);}
+
+                         
+				        /*++++++++++ guitar hero's ++++++++++++*/
+
+#guitar{
+	height: 40px; background-image:url(img/halloween%20kopje-01.jpg);
+	}	
+					 
+#guitar1 { background-image:url(1.0/nesjes/Guitar%20hero%27s/kittens_0.1.jpg);
+clear:both;
+height:125px;
+margin-top: 30px;
+display:block;}
+#guitar1:hover { background-image:url(1.0/nesjes/Guitar%20hero%27s/kittens_hover-01-01.jpg);}
+
+#guitar2 { background-image:url(1.0/nesjes/Guitar%20hero%27s/kittens_0.2.jpg);
+clear:both;
+height:125px;
+margin-top: 20px;
+display:block;}
+#guitar2:hover { background-image:url(1.0/nesjes/Guitar%20hero%27s/kittens_hover-01-02.jpg);}
+
+#guitar3 { background-image: url(1.0/nesjes/Guitar%20hero%27s/kittens_0.1-03.jpg);
+clear:both;
+height:125px;
+margin-top: 10px;
+display:block;}
+#guitar3:hover { background-image:url(1.0/nesjes/Guitar%20hero%27s/kittens_hover-01-03.jpg);}
+
+#guitar4 { background-image:url(1.0/nesjes/Guitar%20hero%27s/kittens_0.1-04.jpg);
+clear:both;
+height:125px;
+display:block;
+margin-top: 10px;
+margin-bottom: 30px}
+#guitar4:hover { background-image:url(1.0/nesjes/Guitar%20hero%27s/kittens_hover-01-04.jpg);}
+
+				        /*++++++++++ wild west ++++++++++++*/
+
+#guitar{
+	height: 40px; background-image:url(img/halloween%20kopje-01.jpg);
+	}	
+					 
+#wild1 { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel-01.jpg);
+clear:both;
+height:125px;
+margin-top: 30px;
+display:block;}
+#wild1:hover { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel%20hover-01.jpg);}
+
+#wild2 { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel-02.jpg);
+clear:both;
+height:125px;
+margin-top: 20px;
+display:block;}
+#wild2:hover { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel%20hover-02.jpg);}
+
+#wild3 { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel-03.jpg);
+clear:both;
+height:125px;
+margin-top: 10px;
+display:block;}
+#wild3:hover { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel%20hover-03.jpg);}
+
+#wild4 { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel-04.jpg);
+clear:both;
+height:125px;
+display:block;
+margin-top: 10px;
+margin-bottom: 30px}
+#wild4:hover { background-image:url(1.0/nesjes/wild%20west/kittens%20profiel%20hover-04.jpg);}
+
+
+                        /*++++++++++++ GALLERY ++++++++++++*/
+
+#cube {
+	background-color: #FFF;
+	width: 720px;
+    border: solid #2F4066 5px; 
+	margin-left: 15px;
+	margin-right: 15px;
+	}
+
+#gallery {
+	padding:0;
+	width:800px;
+	margin:auto;
+	
+
+	
+	}
+
+#gallery li {
+	margin:10px;
+	height:120px;
+	width:120px;
+	list-style-type: none;
+	float:left;
+	border: solid 2px #999999;
+	
+	}
+	
+.clear {
+	clear: both;
+	}
+	
+
+.koop {
+	color: #333;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+}

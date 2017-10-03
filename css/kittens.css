@@ -1,0 +1,630 @@
+@media screen and (max-width:900px) {
+    .kittens {
+          width: 80%;
+          margin: 0 auto;
+      }
+    .kittens2 {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .kittens_blok {
+        width: 100%;
+        text-align: center;
+    }
+
+    .kittens_blok_h1 a {
+        width: 100%;
+        float: left;
+        color: #003366;
+        text-decoration: none;
+        margin-bottom: 15px;
+        font-size: 24px;
+    }
+
+    .kittens_blok_1 {
+        width: 45%;
+        float: left;
+        text-align: left;
+    }
+
+    .kittens_blok_2 {
+        width: 45%;
+        float: right;
+        text-align: left;
+    }
+
+    .kittens_blok_1_img {
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+    }
+
+    .kittens_blok_1_h1 {
+        color: #003366;
+        margin-bottom: -2px;
+        font-size: 20px;
+
+    }
+
+    .kittens_blok_1_a {
+        color: #0066CC;
+        font-size: 18px;
+
+    }
+
+    .kittens_blok_2_img {
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+
+    }
+
+    .kittens_blok_2_h1 {
+        color: #003366;
+        margin-bottom: -2px;
+        font-size: 20px;
+    }
+
+    .kittens_blok_2_a {
+        color: #0066CC;
+        font-size: 18px;
+    }
+
+    .kittens_hr {
+        float: left;
+        width: 120%;
+        margin-left: -10%;
+        color: #003366;
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+    }
+
+    .kittens_blok_nest_1 {
+        width: 100%;
+        float: left;
+        margin-bottom: 10px;
+    }
+
+    .kittens_blok_nest_1_h1 {
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+
+    .kittens_blok_nest_1_img {
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        margin-bottom: 10px;
+    }
+
+    .kittens_blok_nest_1_info1 {
+        width: 30%;
+        float: left;
+    }
+
+    .kittens_blok_nest_1_info2 {
+        width: 70%;
+        float: left;
+    }
+
+    .kittens_blok_nest_1_info1_p {
+        color: #003366;
+        font-size: 12px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+
+    .kittens_blok_nest_1_info2_p {
+        font-size: 12px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+
+    .kittens_blok_nest_2 {
+        width: 100%%;
+        float: right;
+        margin-bottom: 10px;
+
+    }
+
+    .kittens_blok_nest_2_h1 {
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+
+    .kittens_blok_nest_2_img {
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        margin-bottom: 10px;
+    }
+
+    .kittens_blok_nest_2_info1 {
+        width: 30%;
+        float: left;
+    }
+
+    .kittens_blok_nest_2_info2 {
+        width: 70%;
+        float: left;
+    }
+
+    .kittens_blok_nest_2_info1_p {
+        color: #003366;
+        font-size: 12px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+
+    .kittens_blok_nest_2_info2_p {
+        font-size: 12px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+
+    }
+}
+@media screen and (max-width: 1111px) and (min-width: 901px) {
+    .kittens{
+        width: 60%;
+        margin: 0 auto;
+    }
+    .kittens2{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .kittens_blok{
+        width: 100%;
+        text-align: center;
+    }
+    .kittens_blok_h1 a{
+        width: 100%;
+        float: left;
+        color: #003366;
+        text-decoration: none;
+        margin-bottom: 15px;
+        font-size: 34px;
+    }
+    .kittens_blok_1{
+        width: 45%;
+        float: left;
+        text-align: left;
+    }
+    .kittens_blok_2{
+        width: 45%;
+        float: right;
+        text-align: left;
+    }
+    .kittens_blok_1_img{
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .kittens_blok_1_h1{
+        color: #003366;
+        margin-bottom: -2px;
+
+    }
+    .kittens_blok_1_a{
+        color: #0066CC;
+        font-size: 18px;
+
+    }
+    .kittens_blok_2_img{
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+
+    }
+    .kittens_blok_2_h1{
+        color: #003366;
+        margin-bottom: -2px;
+    }
+    .kittens_blok_2_a{
+        color: #0066CC;
+        font-size: 18px;
+    }
+
+    .kittens_hr{
+        float: left;
+        width: 120%;
+        margin-left: -10%;
+        color: #003366;
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+    }
+    .kittens_blok_nest_1{
+        width: 45%;
+        float: left;
+        margin-bottom: 80px;
+    }
+    .kittens_blok_nest_1_h1{
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+    .kittens_blok_nest_1_img{
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        margin-bottom: 10px;
+    }
+    .kittens_blok_nest_1_info1{
+        width: 30%;
+        float: left;
+    }
+    .kittens_blok_nest_1_info2{
+        width: 70%;
+        float: left;
+    }
+    .kittens_blok_nest_1_info1_p{
+        color:#003366 ;
+        font-size: 16px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_1_info2_p{
+        font-size: 16px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_2{
+        width: 45%;
+        float: right;
+        margin-bottom: 80px;
+
+    }
+    .kittens_blok_nest_2_h1{
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+    .kittens_blok_nest_2_img{
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        margin-bottom: 10px;
+    }
+    .kittens_blok_nest_2_info1{
+        width: 30%;
+        float: left;
+    }
+    .kittens_blok_nest_2_info2{
+        width: 70%;
+        float: left;
+    }
+    .kittens_blok_nest_2_info1_p{
+        color:#003366 ;
+        font-size:16px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_2_info2_p{
+        font-size: 16px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+
+    }}
+@media screen and (max-width: 1325px) and (min-width: 1112px) {
+
+    .kittens{
+        width: 60%;
+        margin: 0 auto;
+    }
+    .kittens2{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .kittens_blok{
+        width: 100%;
+        text-align: center;
+    }
+    .kittens_blok_h1 a{
+        width: 100%;
+        float: left;
+        color: #003366;
+        text-decoration: none;
+        margin-bottom: 15px;
+        font-size: 34px;
+    }
+    .kittens_blok_1{
+        width: 45%;
+        float: left;
+        text-align: left;
+    }
+    .kittens_blok_2{
+        width: 45%;
+        float: right;
+        text-align: left;
+    }
+    .kittens_blok_1_img{
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .kittens_blok_1_h1{
+        color: #003366;
+        margin-bottom: -2px;
+
+    }
+    .kittens_blok_1_a{
+        color: #0066CC;
+        font-size: 18px;
+
+    }
+    .kittens_blok_2_img{
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+
+    }
+    .kittens_blok_2_h1{
+        color: #003366;
+        margin-bottom: -2px;
+    }
+    .kittens_blok_2_a{
+        color: #0066CC;
+        font-size: 18px;
+    }
+
+    .kittens_hr{
+        float: left;
+        width: 120%;
+        margin-left: -10%;
+        color: #003366;
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+    }
+    .kittens_blok_nest_1{
+        width: 45%;
+        float: left;
+        margin-bottom: 80px;
+    }
+    .kittens_blok_nest_1_h1{
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+    .kittens_blok_nest_1_img{
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        margin-bottom: 10px;
+    }
+    .kittens_blok_nest_1_info1{
+        width: 30%;
+        float: left;
+    }
+    .kittens_blok_nest_1_info2{
+        width: 70%;
+        float: left;
+    }
+    .kittens_blok_nest_1_info1_p{
+        color:#003366 ;
+        font-size: 20px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_1_info2_p{
+        font-size: 20px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_2{
+        width: 45%;
+        float: right;
+        margin-bottom: 80px;
+
+    }
+    .kittens_blok_nest_2_h1{
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+    .kittens_blok_nest_2_img{
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        margin-bottom: 10px;
+    }
+    .kittens_blok_nest_2_info1{
+        width: 30%;
+        float: left;
+    }
+    .kittens_blok_nest_2_info2{
+        width: 70%;
+        float: left;
+    }
+    .kittens_blok_nest_2_info1_p{
+        color:#003366 ;
+        font-size: 20px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_2_info2_p{
+        font-size: 20px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+
+    }
+}
+@media screen and (min-width:1326px){
+    .kittens{
+        width: 60%;
+        margin: 0 auto;
+    }
+    .kittens2{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .kittens_blok{
+        width: 100%;
+        text-align: center;
+    }
+    .kittens_blok_h1 a{
+        width: 100%;
+        float: left;
+        color: #003366;
+        text-decoration: none;
+        margin-bottom: 15px;
+        font-size: 34px;
+    }
+    .kittens_blok_1{
+        width: 45%;
+        float: left;
+        text-align: left;
+    }
+    .kittens_blok_2{
+        width: 45%;
+        float: right;
+        text-align: left;
+    }
+    .kittens_blok_1_img{
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .kittens_blok_1_h1{
+        color: #003366;
+        margin-bottom: -2px;
+
+    }
+    .kittens_blok_1_a{
+        color: #0066CC;
+        font-size: 18px;
+
+    }
+    .kittens_blok_2_img{
+        width: 100%;
+        margin-bottom: -15px;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+
+    }
+    .kittens_blok_2_h1{
+        color: #003366;
+        margin-bottom: -2px;
+    }
+    .kittens_blok_2_a{
+        color: #0066CC;
+        font-size: 18px;
+    }
+
+    .kittens_hr{
+        float: left;
+        width: 120%;
+        margin-left: -10%;
+        color: #003366;
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+    }
+    .kittens_blok_nest_1{
+        width: 45%;
+        float: left;
+        margin-bottom: 80px;
+    }
+    .kittens_blok_nest_1_h1{
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+    .kittens_blok_nest_1_img{
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        margin-bottom: 10px;
+    }
+    .kittens_blok_nest_1_info1{
+        width: 30%;
+        float: left;
+    }
+    .kittens_blok_nest_1_info2{
+        width: 70%;
+        float: left;
+    }
+    .kittens_blok_nest_1_info1_p{
+        color:#003366 ;
+        font-size: 24px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_1_info2_p{
+        font-size: 24px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_2{
+        width: 45%;
+        float: right;
+        margin-bottom: 80px;
+
+    }
+    .kittens_blok_nest_2_h1{
+        width: 100%;
+        float: left;
+        color: #003366;
+    }
+    .kittens_blok_nest_2_img{
+        width: 100%;
+        float: left;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        margin-bottom: 10px;
+    }
+    .kittens_blok_nest_2_info1{
+        width: 30%;
+        float: left;
+    }
+    .kittens_blok_nest_2_info2{
+        width: 70%;
+        float: left;
+    }
+    .kittens_blok_nest_2_info1_p{
+        color:#003366 ;
+        font-size: 24px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+    }
+    .kittens_blok_nest_2_info2_p{
+        font-size: 24px;
+        margin-bottom: -3px;
+        margin-top: 5px;
+
+    }
+}

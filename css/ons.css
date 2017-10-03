@@ -1,0 +1,120 @@
+@media screen and (max-width:1000px){
+    .ons{
+        width: 80%;
+        margin: 0 auto;
+
+    }
+    .ons_blok1{
+        width: 100%;
+        float: left;
+        margin-top: 30px;
+        /*margin-bottom: -30px;*/
+    }
+    .ons_blok1_img1 img{
+        width: 95%;
+        float: left;
+        margin-right: 5%;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .ons_blok1_img2 img{
+        width: 95%;
+        float: left;
+        margin-left: 5%;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .ons_blok1_img1{
+        width: 50%;
+        float: left;
+
+    }
+    .ons_blok1_img2{
+        width: 50%;
+        float: left;
+
+    }
+    .ons_blok1_h2{
+        font-size: 16px;
+        width: 52%;
+        float: left;
+        color: #003366;
+        /*margin-right: 5%;*/
+    }
+    .ons_blok2_h2{
+        width: 48%;
+        float: left;
+        color: #003366;
+        font-size: 16px;
+
+    }
+    .ons_blok2{
+        /*margin-top: 30px;*/
+        width: 100%;
+        float: right;
+    }
+    .ons_blok2_p{
+        font-size: 18px;
+    }
+}
+@media screen and (min-width:1001px){
+    .ons{
+        width: 80%;
+        margin: 0 auto;
+
+    }
+    .ons_blok1{
+        width: 40%;
+        float: left;
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+    .ons_blok1_img1 img{
+        width: 95%;
+        float: left;
+        margin-right: 5%;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .ons_blok1_img2 img{
+        width: 95%;
+        float: left;
+        margin-left: 5%;
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .ons_blok1_img1{
+        width: 50%;
+        float: left;
+
+    }
+    .ons_blok1_img2{
+        width: 50%;
+        float: left;
+
+    }
+    .ons_blok1_h2{
+        width: 52%;
+        float: left;
+        color: #003366;
+        /*margin-right: 5%;*/
+    }
+    .ons_blok2_h2{
+        width: 48%;
+        float: left;
+        color: #003366;
+
+    }
+    .ons_blok2{
+        margin-top: 50px;
+        width: 58%;
+        float: right;
+    }
+    .ons_blok2_p{
+        font-size: 18px;
+    }
+}

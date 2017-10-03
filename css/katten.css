@@ -1,0 +1,232 @@
+@media screen and (max-width:830px){
+    .keuze{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .keuze_blok_img{
+        width: 100%;
+        float: left;
+        /*padding: 1%;*/
+        /*margin-top: 80px;*/
+        margin-bottom: 40px;
+        filter: grayscale(100%);
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
+    }
+    .keuze_blok_img:hover{
+        filter: grayscale(0%);
+    }
+    .katten{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .katten_blok{
+        width: 100%;
+        float: left;
+
+    }
+    .katten_blok_1{
+        width: 100%;
+        float: left;
+        /*margin-left: 8%;*/
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .katten_blok_img{
+        width: 100%;
+
+    }
+    .katten_blok_2{
+        width: 100%;
+        float: left;
+        margin-bottom: 30px;
+
+    }
+    .katten_blok_h2{
+        width: 100%;
+        color: #003366;
+        font-size: 30px;
+        /*margin-left: 10%;*/
+        margin-top: -10px;
+    }
+    .katten_blok_2_1{
+        width: 35%;
+        float: left;
+
+    }
+    .katten_blok_2_2{
+        width:60%;
+        float: left;
+        margin-left: 4%;
+    }
+    .katten_blok_2_1_b{
+        font-size: 14px;
+        color: #003366;
+
+    }
+    .katten_blok_2_2_b{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 1200px) and (min-width: 831px) {
+    .keuze {
+        width: 90%;
+        margin-left: 7%;
+    }
+
+    .keuze_blok_img {
+        width: 30%;
+        float: left;
+        padding: 1%;
+        /*margin-top: 80px;*/
+        margin-bottom: 80px;
+        filter: grayscale(100%);
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+    }
+
+    .keuze_blok_img:hover {
+        filter: grayscale(0%);
+    }
+
+    .katten {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .katten_blok {
+        width: 100%;
+        float: left;
+
+    }
+
+    .katten_blok_1 {
+        width: 40%;
+        float: left;
+        margin-left: 8%;
+        margin-bottom: 120px;
+    }
+
+    .katten_blok_img {
+        width: 100%;
+
+    }
+
+    .katten_blok_2 {
+        width: 50%;
+        float: left;
+    }
+
+    .katten_blok_h2 {
+        width: 100%;
+        color: #003366;
+        font-size: 30px;
+        margin-left: 5%;
+        margin-top: -10px;
+    }
+
+    .katten_blok_2_1 {
+        width: 35%;
+        float: left;
+        margin-left: 5%;
+    }
+
+    .katten_blok_2_2 {
+        width: 50%;
+        float: left;
+        margin-left: 5%;
+    }
+
+    .katten_blok_2_1_b {
+        font-size: 18px;
+        color: #003366;
+
+    }
+
+    .katten_blok_2_2_b {
+        font-size: 18px;
+    }
+}
+@media screen and (min-width:1201px) {
+
+    .keuze {
+        width: 90%;
+        margin-left: 7%;
+    }
+
+    .keuze_blok_img {
+        width: 30%;
+        float: left;
+        padding: 1%;
+        /*margin-top: 80px;*/
+        margin-bottom: 80px;
+        filter: grayscale(100%);
+        -webkit-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+        box-shadow: 10px 10px 21px -12px rgba(0, 0, 0, 0.75);
+    }
+
+    .keuze_blok_img:hover {
+        filter: grayscale(0%);
+    }
+
+    .katten {
+        width: 1200px;
+        margin: 0 auto;
+    }
+
+    .katten_blok {
+        width: 100%;
+        float: left;
+
+    }
+
+    .katten_blok_1 {
+        width: 40%;
+        float: left;
+        margin-left: 8%;
+        margin-bottom: 100px;
+    }
+
+    .katten_blok_img {
+        width: 100%;
+
+    }
+
+    .katten_blok_2 {
+        width: 50%;
+        float: left;
+    }
+
+    .katten_blok_h2 {
+        width: 100%;
+        color: #003366;
+        font-size: 40px;
+        margin-left: 10%;
+        margin-top: -10px;
+    }
+
+    .katten_blok_2_1 {
+        width: 35%;
+        float: left;
+        margin-left: 10%;
+    }
+
+    .katten_blok_2_2 {
+        width: 50%;
+        float: left;
+        margin-bottom:50px;
+    }
+
+    .katten_blok_2_1_b {
+        font-size: 22px;
+        color: #003366;
+
+    }
+
+    .katten_blok_2_2_b {
+        font-size: 22px;
+    }
+}

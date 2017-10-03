@@ -1,0 +1,209 @@
+@media screen and (max-width:900px){
+
+    .contact{
+        margin: 0 auto;
+        width: 90%;
+    }
+    #vragenopmerkingen{
+        width: 100%;
+    }
+    .contact_blok_1{
+        width: 100%;
+        /*float: left;*/
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    .contact_blok_2{
+        margin-top: 70px;
+        width: 100%;
+        float: left;
+    }
+    .table1{
+        width: 100%;
+        float: left;
+        /*margin-right: 5%;*/
+    }
+    .table2{
+        width: 100%;
+        float: left;
+
+    }
+    .table1 tr td b{
+        color: #003366;
+        font-size: 28px;
+    }
+    .table2 tr td b{
+        color: #003366;
+        font-size: 28px;
+    }
+    .contact_hr{
+        width: 100%;
+        float: left;
+        color: #003366;
+        margin-top: 100px;
+    }
+    .contact_p{
+        font-size:28px;
+        color: #003366;
+        margin-top: -80px;
+
+    }
+    iframe{
+        float: left;
+        width: 100%;
+        height: 70%;
+        margin-right: 10%;
+        margin-bottom: 60px;
+    }
+    #reset{
+        background-color: #003366;
+        border: none;
+        color: white;
+        padding: 10px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    #submit{
+        background-color: #003366;
+        border: none;
+        color: white;
+        padding: 10px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    #submit:hover{
+        background-color: #0066CC;
+    }
+    #reset:hover{
+        background-color: #0066CC;
+    }
+    .verzonden{
+        width: 40%;
+        margin: 0 auto;
+        text-align: center;
+        border: 4px solid #003366;
+        padding: 40px;
+    }
+    .verzonden_h1{
+        color: #003366;
+        font-size: 38px;
+    }
+    .verzonden_a{
+        color: #0066CC;
+    }
+    .verzonden_ruimte{
+        width: 100%;
+        margin-top: 151px;
+    }
+}
+@media screen and (min-width:901px){
+    .contact{
+        margin: 0 auto;
+        width: 70%;
+    }
+    .contact_blok_1{
+        width: 60%;
+        /*float: left;*/
+        margin: 0 auto;
+        padding-top: 70px;
+
+    }
+    .contact_blok_2{
+        margin-top: 100px;
+        width: 100%;
+        float: left;
+    }
+    .table1{
+        width: 30%;
+        float: left;
+        margin-right: 5%;
+    }
+    .table2{
+        width: 30%;
+        float: left;
+
+    }
+    .table1 tr td b{
+        color: #003366;
+        font-size: 28px;
+    }
+    .table2 tr td b{
+        color: #003366;
+        font-size: 28px;
+    }
+    .contact_hr{
+        width: 100%;
+        float: left;
+        color: #003366;
+        margin-top: 100px;
+    }
+    .contact_p{
+        font-size:28px;
+        color: #003366;
+        margin-top: -40px;
+
+    }
+    iframe{
+        float: left;
+        width: 50%;
+        height: 70%;
+        margin-right: 10%;
+        margin-bottom: 60px;
+    }
+    #reset{
+        background-color: #003366;
+        border: none;
+        color: white;
+        padding: 10px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    #submit{
+        background-color: #003366;
+        border: none;
+        color: white;
+        padding: 10px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    #submit:hover{
+        background-color: #0066CC;
+    }
+    #reset:hover{
+        background-color: #0066CC;
+    }
+    .verzonden{
+        width: 40%;
+        margin: 0 auto;
+        text-align: center;
+        border: 4px solid #003366;
+        padding: 40px;
+    }
+    .verzonden_h1{
+        color: #003366;
+        font-size: 38px;
+    }
+    .verzonden_a{
+        color: #0066CC;
+    }
+    .verzonden_ruimte{
+        width: 100%;
+        margin-top: 151px;
+    }
+}
