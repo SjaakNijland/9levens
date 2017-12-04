@@ -59,16 +59,30 @@ switch ($current_page) {
         include 'views/kittens/memory/fotos/sissy.php';
         break;
 
-    case 'megadeth':
-        include 'views/kittens/megadeth/megadeth.php';
+    case 'stable':
+        include 'views/kittens/stable/stable.php';
         break;
 
-    case 'megadeth/victory':
-        include 'views/kittens/megadeth/fotos/victory.php';
+    case 'stable/Fancy':
+        include 'views/kittens/stable/fotos/Fancy.php';
         break;
-    case 'menu':
 
+    case 'stable/Fancy':
+        include 'views/kittens/stable/fotos/Fancy.php';
         break;
+
+    case 'stable/Herona':
+        include 'views/kittens/stable/fotos/Herona.php';
+        break;
+
+    case 'stable/Udolla':
+        include 'views/kittens/stable/fotos/Udolla.php';
+        break;
+
+    case 'stable/Hailey':
+        include 'views/kittens/stable/fotos/Hailey.php';
+        break;
+
 }
 include 'views/footer.php';
 ?>

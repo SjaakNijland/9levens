@@ -204,7 +204,7 @@
     .home_content_wide_img{
         margin-top: 90px;
         width: 40%;
-        float: left;
+        float: right;
         -webkit-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
         -moz-box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
         box-shadow: 10px 10px 21px -12px rgba(0,0,0,0.75);
@@ -216,12 +216,12 @@
         float: left;
     }
     .home_content_wide_content_h1{
-        margin-left: 10%;
+        /*margin-left: 10%;*/
         margin-top: 85px;
         color: #003366 ;
     }
     .home_content_wide_content_p{
-        margin-left: 10%;
+        /*margin-left: 10%;*/
     }
     .home_content_blok_p{
         height: 40px;

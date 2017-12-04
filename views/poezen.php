@@ -171,7 +171,7 @@
                 <img src="./img/katten/poezen/julia/1.jpg" alt="kat" class="katten_blok_img">
             </div>
             <div class="katten_blok_2">
-                <h2 class="katten_blok_h2">Julie fra Jerrkins Smykkeskrin</h2>
+                <h2 class="katten_blok_h2">Julie fra Jerriks Smykkeskrin</h2>
                 <div class="katten_blok_2_1">
                     <b class="katten_blok_2_1_b">Stamboeknummer</b>
                     <br>

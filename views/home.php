@@ -6,12 +6,11 @@
     </div>
     <div class="home_content">
         <div class="home_content_blok">
-            <h1 class="home_content_blok_h1">Oude site.</h1>
-            <img src="./img/home/placeholder3.jpg" alt="9levens" class="home_content_blok_img">
+            <h1 class="home_content_blok_h1">Nieuwe kittens!</h1>
+            <img src="./img/katten/kittens/unknow/Sissy/3.JPG" alt="9levens" class="home_content_blok_img">
             <p class="home_content_blok_p">
-                Op onze nieuwe site kan je alles vinden over onze nieuwe kittens en natuurlijk staan hier ook alle katten op, maar wilt u vorige kittens bekijken kijk gerust op onze oude site!
-                <a href="./oudesite/public_html/index.html">Ga naar de oude site.</a>
-
+                Er zijn weer nieuwe kittens!
+                <a href="index.php?action=kittens">Klik hier</a>
             </p>
 
         </div>
@@ -20,7 +19,7 @@
 
         <div class="home_content_blok_2">
             <h1 class="home_content_blok_h1">Nieuwe Kittens!</h1>
-            <img src="./img/home/placeholder4.jpg" alt="9levens" class="home_content_blok_img">
+            <img src="./img/katten/kittens/unknow/Sissy/1.jpg" alt="9levens" class="home_content_blok_img">
             <p class="home_content_blok_p">
                 Wij hebben Nieuwe kittens! Bekijk ze<b><a href="index.php?action=kittens"> Hier...</a> </b>
             </p>
